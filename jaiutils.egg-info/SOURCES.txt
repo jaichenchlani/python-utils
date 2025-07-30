@@ -1,6 +1,8 @@
+README.md
 setup.py
 jaiutils/__init__.py
 jaiutils/llm.py
+jaiutils/test.py
 jaiutils.egg-info/PKG-INFO
 jaiutils.egg-info/SOURCES.txt
 jaiutils.egg-info/dependency_links.txt
