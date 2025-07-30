@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="jaiutils",
-    version="1.0.0",
+    version="1.0.2",
     author="Jai",
     description="Personal Python utilities for various projects",
     packages=find_packages(),
